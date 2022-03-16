@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TEyfGQ/ncnlr2OQdAKuKf2+Wpejqg+/Lh/WrXFFos8vlSLYDGUvLLD7DPxuQ59slrq8uqR5Sxz0MCl5wUdH3Qg==",
+  "dgSpecHash": "LSxI7a1X3Trzp93VY0qNNSQcpSME2Ybrao4Kflykb3FANp0B53LDfQMHXaGnKc7rjnN9wwGzH7NGA6w6Toe38A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pokni\\Desktop\\omri\\projects\\Catlog\\Catlog.csproj",
+  "projectFilePath": "C:\\Users\\pokni\\Desktop\\omri\\projects\\DotNet-Rest-APi-Catalaog\\Catlog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pokni\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\pokni\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

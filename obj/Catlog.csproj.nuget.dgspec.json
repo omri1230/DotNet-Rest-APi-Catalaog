@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pokni\\Desktop\\omri\\projects\\Catlog\\Catlog.csproj": {}
+    "C:\\Users\\pokni\\Desktop\\omri\\projects\\DotNet-Rest-APi-Catalaog\\Catlog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pokni\\Desktop\\omri\\projects\\Catlog\\Catlog.csproj": {
+    "C:\\Users\\pokni\\Desktop\\omri\\projects\\DotNet-Rest-APi-Catalaog\\Catlog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pokni\\Desktop\\omri\\projects\\Catlog\\Catlog.csproj",
+        "projectUniqueName": "C:\\Users\\pokni\\Desktop\\omri\\projects\\DotNet-Rest-APi-Catalaog\\Catlog.csproj",
         "projectName": "Catlog",
-        "projectPath": "C:\\Users\\pokni\\Desktop\\omri\\projects\\Catlog\\Catlog.csproj",
+        "projectPath": "C:\\Users\\pokni\\Desktop\\omri\\projects\\DotNet-Rest-APi-Catalaog\\Catlog.csproj",
         "packagesPath": "C:\\Users\\pokni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pokni\\Desktop\\omri\\projects\\Catlog\\obj\\",
+        "outputPath": "C:\\Users\\pokni\\Desktop\\omri\\projects\\DotNet-Rest-APi-Catalaog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pokni\\AppData\\Roaming\\NuGet\\NuGet.Config",
