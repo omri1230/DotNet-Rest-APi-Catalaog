@@ -86,3 +86,14 @@ C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\obj\Debug\net5.0\r
 C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\obj\Debug\net5.0\Catlog.pdb
 C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\obj\Debug\net5.0\Catlog.genruntimeconfig.cache
 C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\obj\Debug\net5.0\ref\Catlog.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pokni\Desktop\omri\projects\DotNet-Rest-APi-Catalaog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
